@@ -1,4 +1,4 @@
-### Hi there 👋, Christian Lapnow
+### Hi there 👋, I'm Christian Lapnow
 #### Computer Engineering Student
 I am an inspiring Computer Engineering student at Iowa State. I have spent my fair share in data structures abd robotics and have a strong grasp on different sorting algorithms. 
 
